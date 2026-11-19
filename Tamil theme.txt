@@ -1,0 +1,139 @@
+```
+{
+  "title": "The Glory of the Chola Empire – Tamil Civilization Around 1025 CE",
+  "framework": "SCALE",
+  "subject": {
+    "main_subject": "A grand cinematic historical reconstruction of the Chola Empire at its height, around 1025 CE, during the reign of Rajendra Chola I.",
+    "central_landmark": "The magnificent Brihadeeswarar Temple at Thanjavur, with its enormous granite vimana, sculpted stone walls, monumental entrance, and historically inspired Chola architecture.",
+    "cultural_elements": [
+      "Three young adult Tamil women performing a coordinated classical Tamil temple dance inspired by the historic traditions that later developed into Bharatanatyam.",
+      "A seated female musician playing a beautifully detailed veena-like string instrument, positioned clearly beside the dancers.",
+      "A seated male musician playing the mridangam, with the drum held in a realistic traditional playing position.",
+      "Optional supporting musicians playing a flute and the ancient Tamil yaazh.",
+      "Chola bronze artisans creating a Nataraja sculpture using the traditional lost-wax casting process.",
+      "Tamil silk weavers, goldsmiths, sculptors, potters, merchants, scholars, farmers, and ordinary townspeople.",
+      "Tamil maritime merchants and sailors representing the Chola Empire's extensive Indian Ocean trading networks."
+    ]
+  },
+  "composition": {
+    "aspect_ratio": "16:9",
+    "resolution": "8K",
+    "camera": "Wide-angle cinematic establishing shot, approximately 24mm lens, slightly elevated panoramic viewpoint.",
+    "visual_hierarchy": [
+      "The Brihadeeswarar Temple dominates the central background and establishes the grandeur of the Chola Empire.",
+      "The three dancers and musical ensemble form a clearly visible cultural focal point in the foreground.",
+      "Artisans, merchants, scholars, and everyday townspeople populate the middle ground.",
+      "The distant maritime trading scene appears as a secondary visual layer toward the far left horizon, suggesting the empire's overseas connections without placing a seaport directly beside inland Thanjavur."
+    ],
+    "dance_formation": {
+      "number_of_dancers": 3,
+      "arrangement": "Triangular formation, with one dancer slightly forward in the centre and the other two symmetrically positioned behind her.",
+      "visibility": "All three dancers must be fully visible from head to toe, with clear separation between their bodies and no overlapping limbs.",
+      "costumes": "Period-inspired silk garments in deep crimson, royal blue, and emerald green, with elegant gold borders.",
+      "jewellery": "Traditional gold temple jewellery, necklaces, earrings, bangles, waist ornaments, and jasmine flowers woven into their hair.",
+      "dance_details": "Coordinated expressive hand gestures, bent-knee classical dance postures inspired by aramandi, rhythmic footwork, ankle bells, and expressive facial movements.",
+      "historical_style": "A historically inspired Tamil temple dance performance rather than a literal reconstruction of modern Bharatanatyam stage costumes."
+    },
+    "musician_placement": {
+      "female_veena_player": "Clearly visible seated woman playing a detailed traditional veena-like string instrument, positioned to one side of the dancers.",
+      "male_mridangam_player": "Clearly visible seated man playing a double-headed mridangam drum, positioned beside the female musician.",
+      "additional_musicians": "One flute player and, optionally, a yaazh player slightly behind the main musicians.",
+      "visibility": "The instruments must be recognizable, correctly proportioned, and unobstructed. Musicians must not be hidden behind dancers."
+    }
+  },
+  "action": {
+    "foreground": "The three dancers perform a graceful synchronized temple dance while the musicians accompany them. Nearby artisans work on bronze sculptures, weavers operate traditional looms, and merchants display textiles, spices, pearls, and jewellery.",
+    "middle_ground": "A lively Chola-era town unfolds around the temple, with people carrying baskets, bullock carts transporting goods, scholars discussing palm-leaf manuscripts, and artisans working in traditional workshops.",
+    "background": "The towering Brihadeeswarar Temple rises majestically above the settlement. A royal procession with decorated elephants and attendants adds a sense of imperial splendour.",
+    "maritime_activity": "In the distant coastal visual layer, traditional wooden sailing merchant ships travel across the Bay of Bengal. Tamil merchants and sailors load and exchange spices, silk, pearls, precious stones, and other trade goods."
+  },
+  "location": {
+    "primary": "Thanjavur, Tamil Nadu, South India, during the Chola period around 1025 CE.",
+    "landmark": "Brihadeeswarar Temple, also known as Peruvudaiyar Kovil.",
+    "secondary_visual_reference": "The Bay of Bengal and the wider Indian Ocean maritime trade network.",
+    "historical_context": [
+      "The imperial Chola kingdom under Rajendra Chola I.",
+      "The cultural and artistic legacy of Rajaraja Chola I.",
+      "Trade connections with Sri Lanka, Southeast Asia, Srivijaya, and Indian Ocean trading centres.",
+      "Tamil language, temple traditions, bronze casting, sculpture, architecture, literature, and maritime commerce."
+    ]
+  },
+  "aesthetic": {
+    "visual_style": "Photorealistic cinematic historical reconstruction with exceptional architectural, cultural, and human detail.",
+    "lighting": "Warm golden sunrise illuminating the temple tower, dancers, musicians, and bustling settlement. Soft atmospheric haze and natural sunlight.",
+    "colour_palette": [
+      "Granite grey",
+      "Antique gold",
+      "Deep crimson",
+      "Royal blue",
+      "Emerald green",
+      "Turmeric yellow",
+      "Earth brown",
+      "Ocean blue"
+    ],
+    "textures": [
+      "Weathered granite temple carvings",
+      "Rich woven silk fabrics",
+      "Traditional gold ornaments",
+      "Bronze sculptures",
+      "Wooden musical instruments",
+      "Natural stone streets",
+      "Traditional wooden sailing vessels"
+    ],
+    "atmosphere": "Majestic, vibrant, culturally rich, historically immersive, and celebratory.",
+    "rendering": "Ultra-detailed textures, realistic human anatomy, natural skin tones, accurate shadows, cinematic depth, atmospheric perspective, and lifelike environmental details."
+  },
+  "historical_accuracy": {
+    "period": "Approximately 1025 CE.",
+    "architecture": "Use Chola-period Dravidian architecture and historically appropriate temple details.",
+    "clothing": "Use period-inspired South Indian cotton and silk garments, traditional draping, and historically plausible jewellery.",
+    "music": "Include period-inspired Tamil musical instruments. Treat the veena-like instrument as an artistic reconstruction rather than a claim of exact modern veena design in 1025 CE.",
+    "dance": "Depict a historically inspired Tamil temple dance tradition. Do not present modern codified Bharatanatyam as an unchanged performance form from 1025 CE.",
+    "maritime_trade": "Use traditional wooden sailing merchant vessels, cloth sails, ropes, and historically plausible cargo.",
+    "avoid_anachronisms": [
+      "Modern buildings and infrastructure",
+      "Modern Bharatanatyam stage costumes",
+      "Modern musical equipment",
+      "Modern ships and container vessels",
+      "Cars, buses, and machinery",
+      "Mughal, Vijayanagara, Nayak, or colonial architectural features",
+      "Modern footwear and contemporary clothing"
+    ]
+  },
+  "negative_prompt": [
+    "Cartoon style",
+    "Fantasy architecture",
+    "Modern cityscape",
+    "Modern ships",
+    "Container vessels",
+    "Cranes and industrial ports",
+    "Electric lights",
+    "Modern musical instruments",
+    "Incorrect temple architecture",
+    "Mughal architecture",
+    "Vijayanagara architecture",
+    "Colonial buildings",
+    "Modern dance stage",
+    "Extra dancers",
+    "Fewer than three dancers",
+    "Duplicate people",
+    "Missing musicians",
+    "Hidden or cropped veena",
+    "Hidden or cropped mridangam",
+    "Incorrect musical instrument anatomy",
+    "Incorrect dance postures",
+    "Extra fingers",
+    "Extra limbs",
+    "Deformed hands",
+    "Distorted faces",
+    "Unnatural body proportions",
+    "Blurry foreground",
+    "Overcrowded composition",
+    "Text",
+    "Captions",
+    "Logos",
+    "Watermarks"
+  ],
+  "final_instruction": "Create a visually breathtaking, historically respectful cinematic panorama celebrating the Chola Empire around 1025 CE. The Brihadeeswarar Temple must remain the dominant architectural landmark. The foreground must clearly show exactly three Tamil women performing a coordinated temple dance, accompanied by a visible seated female veena-like instrument player and a seated male mridangam player. Preserve the distinction between inland Thanjavur and distant maritime trade. Every important cultural subject must be recognizable, naturally proportioned, and visually integrated into one coherent scene. Do not sacrifice historical atmosphere for fantasy or modern visual elements."
+}
+```
